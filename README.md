@@ -30,7 +30,24 @@ Root permissions are required for features such as:
 
 Without root access, many of Pocket Hub's core functions will not be available.
 
-**Warning:** Granting root access gives the application elevated system privileges. Only install Pocket Hub from the official repository or other trusted sources. Incorrect system-level modifications can affect device stability or functionality.
+<img width="1024" height="768" alt="bottom" src="https://github.com/user-attachments/assets/4379b308-daa8-4e96-b71b-b33fa15bae0c" />
+
+
+<img width="1024" height="768" alt="bottom3" src="https://github.com/user-attachments/assets/c406da82-33e8-48ed-a245-afccd4b8ec0b" />
+
+<img width="1024" height="768" alt="bottom6" src="https://github.com/user-attachments/assets/ad75f788-9321-4be3-8c25-5304fb4e4398" />
+
+
+<img width="1024" height="768" alt="bottom7" src="https://github.com/user-attachments/assets/ca557c61-2697-40e6-bd0a-556b390bb38e" />
+
+<img width="1024" height="768" alt="bottom9" src="https://github.com/user-attachments/assets/10414ef8-9686-4d06-a56e-333eda738cbb" />
+
+<img width="1024" height="768" alt="bottom5" src="https://github.com/user-attachments/assets/7e21a868-f9e3-4967-bbaf-b2021f11ec40" />
+
+<img width="1024" height="768" alt="bottom10" src="https://github.com/user-attachments/assets/24fbd429-0741-414e-a28f-038043ec38fd" />
+
+
+
 
 ---
 
