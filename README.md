@@ -1,39 +1,254 @@
-# PocketHub
+# Pocket Hub
 
-**PocketHub is an Android control hub and dual-screen overlay built for the AYANEO Pocket DS.** It brings essential handheld controls, system information and input tools together in an interface designed for the device’s two-screen layout.
+### Advanced System Control Center for AYANEO Pocket DS
 
-Use PocketHub to check system status, switch performance profiles, adjust the fan, manage both displays and open a custom keyboard on the screen that works best for you.
+**Take full control of your AYANEO Pocket DS.**
 
-## Features
+Pocket Hub is an advanced system management and control application designed specifically for the **AYANEO Pocket DS** running Android 13.
 
-- **System dashboard** — monitor CPU and GPU frequency and temperature, fan speed, battery, memory, storage and display refresh rate.
-- **Performance profiles** — switch between Eco, Balanced, Streaming, Gaming and Max, and configure available fan and CPU/GPU limits.
-- **Fan control** — view fan RPM and select a supported fan mode independently from the performance profile.
-- **Dual-display controls** — choose which display is active, configure controller focus and select touchpad or cursor behavior.
-- **Built-in controller settings** — adjust vibration and choose Xbox or Japanese button layout.
-- **Display and audio controls** — manage brightness for each screen and, where supported, adjust audio by screen.
-- **Dual-screen keyboard** — use PocketHub Keyboard on the lower display or the active display, with selectable languages, themes, key sizes and a utility bar.
-- **Screenshots** — capture the displays and save the upper image, lower image or both.
-- **System tools** — access available CPU scheduling, virtual memory and swap controls.
-- **Customization** — choose the app language, color accent, interface design and startup behavior.
+It aims to replace the limitations of the stock AYANEO control interface with a more flexible, powerful and customizable control center, providing direct access to system-level hardware controls, performance management and dual-screen functionality.
 
-## Device compatibility
+Pocket Hub brings essential device controls together in one convenient interface, reducing the need to navigate through Android settings, manufacturer-specific menus or external utilities.
 
-PocketHub is designed for the **AYANEO Pocket DS**, an Android handheld with two displays. Some controls depend on the device model, Android version, AYANEO firmware and available system interfaces; they may not work on other Android devices.
+---
 
-## Requirements
+## ⚠️ Important: Root Access Required
 
-- AYANEO Pocket DS running Android.
-- Some advanced system controls may require **root access**.
-- Keyboard input must be enabled and selected in Android’s input-method settings.
-- Button remapping and certain device controls depend on Android accessibility permissions and AYANEO system services.
+**Pocket Hub requires ROOT access to function correctly.**
 
-Basic app features can be used without root, but availability of system-level controls varies by feature and firmware.
+This application interacts directly with Android system services and hardware interfaces that are normally restricted by Android.
 
-## Project status
+Root permissions are required for features such as:
 
-PocketHub is an actively developed project. Features that interact with AYANEO firmware or privileged Android controls may behave differently across firmware versions.
+- CPU frequency and performance management.
+- CPU core and cluster configuration.
+- GPU performance management.
+- Advanced system-level hardware controls.
+- Dual-screen management and display control.
+- Integration with AYANEO system components.
+- Accessibility service configuration and hardware button integration.
 
-## Search keywords
+Without root access, many of Pocket Hub's core functions will not be available.
 
-AYANEO Pocket DS, PocketHub, Android handheld, dual-screen Android, gaming handheld overlay, AYANEO control center, fan control, performance profiles, CPU GPU monitoring, dual-screen keyboard.
+**Warning:** Granting root access gives the application elevated system privileges. Only install Pocket Hub from the official repository or other trusted sources. Incorrect system-level modifications can affect device stability or functionality.
+
+---
+
+## 🎮 Designed for AYANEO Pocket DS
+
+The AYANEO Pocket DS is a unique Android handheld featuring two independent displays and dedicated hardware controls.
+
+However, accessing and managing all of its hardware capabilities through the standard Android interface can be inconvenient.
+
+Pocket Hub is designed to make these capabilities easier to access and manage.
+
+The application focuses on:
+
+- Simplifying access to advanced system settings.
+- Centralizing hardware and performance controls.
+- Improving the dual-screen experience.
+- Providing more direct control over CPU and GPU behavior.
+- Integrating custom controls with the device's physical buttons.
+- Reducing dependence on the original AYANEO control interface.
+
+---
+
+## ✨ Features
+
+### 1. Advanced Performance Management
+
+Manage the device's performance directly from Pocket Hub.
+
+The goal is to provide convenient access to hardware performance parameters without having to manually execute ADB commands or navigate through system configuration files.
+
+**CPU Management**
+- CPU frequency management.
+- CPU performance limits.
+- Individual CPU cluster configuration.
+- Support for devices with multiple CPU clusters.
+- CPU scheduling mode selection.
+- Advanced CPU configuration.
+
+**GPU Management**
+- GPU performance monitoring and configuration.
+- Access to available GPU frequency controls.
+- Performance-oriented hardware settings.
+
+These features are intended to provide greater control over the balance between performance, power consumption and temperature.
+
+### 2. Dual-Screen Management
+
+Take advantage of the AYANEO Pocket DS dual-display architecture.
+
+Pocket Hub is designed to simplify control over both displays.
+
+Features include:
+
+- Independent upper and lower screen management.
+- Ability to disable the lower display when it is not needed.
+- Ability to restore the second display.
+- Convenient screen switching through the device's physical button.
+- Integration with the Android display system.
+
+The objective is to make switching between single-screen and dual-screen operation as seamless as possible.
+
+### 3. Screenshot Manager
+
+A dedicated screenshot feature designed specifically for the dual-screen device.
+
+The intended workflow:
+
+1. Press the screenshot button in Pocket Hub.
+2. The application captures both displays.
+3. A selection window appears with previews of both screens.
+4. Choose which display you want to save.
+5. The selected screenshot is saved.
+6. The selection window closes and a confirmation message appears.
+
+This makes it easy to capture content from either display without manually cropping a combined screenshot.
+
+### 4. Custom Control Interface
+
+Pocket Hub provides a centralized interface for device management.
+
+Instead of navigating through multiple Android settings pages, users can access supported hardware and system controls directly from the application.
+
+The interface is designed around the unique dual-screen layout of the AYANEO Pocket DS.
+
+### 5. Physical Hardware Button Integration
+
+Pocket Hub aims to integrate with the device's physical hardware button.
+
+The goal is to allow users to access their custom control center using the existing hardware button rather than relying exclusively on touchscreen navigation.
+
+This includes managing the interaction between Pocket Hub and the original AYANEO system services.
+
+### 6. Automatic Accessibility Configuration
+
+Pocket Hub is designed to simplify initial setup.
+
+During the initial setup and subsequent launches, the application checks the relevant Accessibility service configuration.
+
+Its intended configuration is:
+
+- Disable the original AYANEO Accessibility services: `AYAHome` and `AYAWindow`.
+- Enable the Pocket Hub Accessibility service.
+- Verify that the configuration has been applied.
+- Recheck the configuration after device restarts and application launches.
+- Restore the required configuration if the original system services have re-enabled themselves.
+
+This helps ensure that the hardware button continues to work with Pocket Hub instead of being intercepted by the original AYANEO interface.
+
+Other user-enabled Accessibility services should be preserved.
+
+### 7. System-Level Integration
+
+Pocket Hub is developed specifically for the AYANEO Pocket DS rather than being a generic Android launcher or settings application.
+
+It is designed to interact with:
+
+- Android system services.
+- Device-specific AYANEO components.
+- Hardware interfaces exposed through the Linux kernel.
+- CPU and GPU system controls.
+- Android display management.
+- Accessibility services.
+
+This device-specific approach makes it possible to implement functionality that would not normally be accessible through standard Android applications.
+
+---
+
+## 🛠 Technical Information
+
+| Component | Details |
+|---|---|
+| Device | AYANEO Pocket DS |
+| Operating System | Android 13 |
+| Architecture | ARM64 |
+| Development Language | Kotlin |
+| Development Environment | Android Studio |
+| System Privileges | Root required |
+| Hardware Integration | AYANEO-specific |
+| Interface | Custom Android UI |
+
+---
+
+## 🔐 Permissions
+
+Pocket Hub requires elevated privileges for its system management functionality.
+
+Depending on the enabled features, it may require:
+
+- Root (`su`) access.
+- Accessibility service activation.
+- Permission to interact with system settings.
+- Access to hardware and kernel configuration interfaces.
+- Display management permissions.
+
+Some functionality depends on the specific firmware and kernel implementation installed on the device.
+
+---
+
+## 🚧 Development Status
+
+Pocket Hub is an actively developed project.
+
+Some features are already implemented, while others are being tested and refined against the original AYANEO firmware.
+
+The main development priorities are:
+
+- Improving CPU and GPU performance management.
+- Completing CPU cluster configuration.
+- Implementing and validating CPU scheduling mode controls.
+- Improving dual-screen switching reliability.
+- Completing screenshot selection and saving workflows.
+- Ensuring reliable hardware button integration.
+- Automating Accessibility service configuration.
+- Improving compatibility and stability across system reboots.
+
+Features that depend on undocumented AYANEO system interfaces may require additional testing.
+
+---
+
+## 🎯 Project Goals
+
+The long-term goal of Pocket Hub is to provide a comprehensive system control center for the AYANEO Pocket DS.
+
+Rather than simply duplicating the original AYANEO interface, Pocket Hub aims to extend its functionality and give users more control over their hardware.
+
+The project is focused on:
+
+- Better hardware control.
+- Easier performance configuration.
+- More convenient dual-screen operation.
+- Reduced reliance on external tools and ADB commands.
+- A cleaner and more unified user experience.
+- Greater flexibility for advanced users and enthusiasts.
+
+---
+
+## ⚠️ Disclaimer
+
+Pocket Hub is an independent community development project.
+
+It is not an official AYANEO application and is not affiliated with, endorsed by or supported by AYANEO.
+
+The application modifies and interacts with privileged Android system components. Incorrect configuration or use may result in unexpected behavior, performance issues or system instability.
+
+Use at your own risk.
+
+Always ensure that you understand the implications of granting root access to applications.
+
+---
+
+## 🔗 Repository
+
+**GitHub:** https://github.com/Emile86/PocketHub
+
+Contributions, testing, bug reports and suggestions are welcome.
+
+If you own an AYANEO Pocket DS and are interested in advanced hardware control, performance optimization and improving the dual-screen experience, feel free to follow the project.
+
+---
+
+**Pocket Hub — One device. Two screens. Full control.**
