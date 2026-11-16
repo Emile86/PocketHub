@@ -1,9 +1,10 @@
+# Build output and IDE state
+build/
+app/build/
 .gradle/
 .kotlin/
-**/build/
-local.properties
-*.jks
-*.keystore
 .idea/
-.DS_Store
-Thumbs.db
+*.iml
+local.properties
+*.apk
+*.aab

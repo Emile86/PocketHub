@@ -1,0 +1,3 @@
+<resources>
+    <string name="aya_button_service_description">Lets PocketHub respond to the AYANEO hardware button.</string>
+</resources>
