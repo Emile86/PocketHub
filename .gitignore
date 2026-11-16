@@ -1,0 +1,10 @@
+# Build output and IDE state
+build/
+app/build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+local.properties
+*.apk
+*.aab

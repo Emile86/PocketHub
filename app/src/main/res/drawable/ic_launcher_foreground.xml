@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dual-screen handheld silhouette -->
+    <path
+        android:fillColor="#39F0BD"
+        android:pathData="M38,19h32c5,0 9,4 9,9v52c0,5 -4,9 -9,9H38c-5,0 -9,-4 -9,-9V28c0,-5 4,-9 9,-9z" />
+
+    <!-- Upper screen: live telemetry graph -->
+    <path
+        android:fillColor="#10232E"
+        android:pathData="M34,26h40v24H34z" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#72BFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3"
+        android:pathData="M38,42l7,-7 6,4 7,-9 6,5 6,-6" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#FFB65C"
+        android:strokeLineCap="round"
+        android:strokeWidth="2"
+        android:pathData="M38,46h8" />
+
+    <!-- Lower screen: three-blade cooling fan -->
+    <path
+        android:fillColor="#10232E"
+        android:pathData="M34,55h40v28H34z" />
+    <group android:pivotX="54" android:pivotY="69" android:rotation="0">
+        <path
+            android:fillColor="#8CFFE1"
+            android:pathData="M54,68c-3,-4 -2,-9 2,-11 4,-3 8,0 7,5 -1,4 -4,6 -7,8z" />
+    </group>
+    <group android:pivotX="54" android:pivotY="69" android:rotation="120">
+        <path
+            android:fillColor="#8CFFE1"
+            android:pathData="M54,68c-3,-4 -2,-9 2,-11 4,-3 8,0 7,5 -1,4 -4,6 -7,8z" />
+    </group>
+    <group android:pivotX="54" android:pivotY="69" android:rotation="240">
+        <path
+            android:fillColor="#8CFFE1"
+            android:pathData="M54,68c-3,-4 -2,-9 2,-11 4,-3 8,0 7,5 -1,4 -4,6 -7,8z" />
+    </group>
+    <path
+        android:fillColor="#F1FFF9"
+        android:pathData="M51,69a3,3 0,1 0,6 0a3,3 0,1 0,-6 0" />
+</vector>
