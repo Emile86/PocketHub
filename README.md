@@ -28,23 +28,28 @@ Root permissions are required for features such as:
 - Integration with AYANEO system components.
 - Accessibility service configuration and hardware button integration.
 
-Without root access, many of Pocket Hub's core functions will not be available.
 
-<img width="1024" height="768" alt="bottom" src="https://github.com/user-attachments/assets/4379b308-daa8-4e96-b71b-b33fa15bae0c" />
+<img width="1024" height="768" alt="PocketHub_1794880772315_bottom 1" src="https://github.com/user-attachments/assets/15ae55b4-49d2-4858-9901-171e23217b80" />
+<img width="1024" height="768" alt="PocketHub_1794880805172_bottom 1" src="https://github.com/user-attachments/assets/047244d5-dee5-4493-a476-17705cb156b8" />
+<img width="1024" height="768" alt="PocketHub_1794880863067_bottom 1" src="https://github.com/user-attachments/assets/ad195495-19a6-472d-bf34-c71944260cd1" />
+<img width="1024" height="768" alt="PocketHub_1794880907000_bottom 1" src="https://github.com/user-attachments/assets/b87920f4-9edc-4ea3-8e09-a2e4b450d79b" />
+<img width="1024" height="768" alt="PocketHub_1794880923684_bottom 1" src="https://github.com/user-attachments/assets/c748d6f2-7d13-4ab6-a2a3-14268770476c" />
+<img width="1024" height="768" alt="PocketHub_1794880944023_bottom 1" src="https://github.com/user-attachments/assets/e7230818-4f54-4c1b-b738-201000949b62" />
+<img width="1024" height="768" alt="PocketHub_1794880985882_bottom 1" src="https://github.com/user-attachments/assets/19244d59-82a2-4eb9-a536-42354aa3052b" />
+<img width="1024" height="768" alt="PocketHub_1794881001675_bottom 1" src="https://github.com/user-attachments/assets/e247a9ad-3a22-4be5-93ba-af7e27f219eb" />
+<img width="1024" height="768" alt="PocketHub_1794881035617_bottom 1" src="https://github.com/user-attachments/assets/bf4abbe9-fd51-4896-88a2-d93c51432d3e" />
+<img width="1024" height="768" alt="PocketHub_1794881043005_bottom 1" src="https://github.com/user-attachments/assets/697dfa04-7440-4550-b4c6-ba86f4569e59" />
+<img width="1024" height="768" alt="PocketHub_1794881330372_bottom 1" src="https://github.com/user-attachments/assets/c1ddd52a-4b2f-4ab3-8778-3ef6a621f047" />
+<img width="1024" height="768" alt="PocketHub_1794881454997_bottom 1" src="https://github.com/user-attachments/assets/f6ed311a-1fc1-4b24-bf0a-ae1e527f593f" />
 
 
-<img width="1024" height="768" alt="bottom3" src="https://github.com/user-attachments/assets/c406da82-33e8-48ed-a245-afccd4b8ec0b" />
-
-<img width="1024" height="768" alt="bottom6" src="https://github.com/user-attachments/assets/ad75f788-9321-4be3-8c25-5304fb4e4398" />
 
 
-<img width="1024" height="768" alt="bottom7" src="https://github.com/user-attachments/assets/ca557c61-2697-40e6-bd0a-556b390bb38e" />
 
-<img width="1024" height="768" alt="bottom9" src="https://github.com/user-attachments/assets/10414ef8-9686-4d06-a56e-333eda738cbb" />
 
-<img width="1024" height="768" alt="bottom5" src="https://github.com/user-attachments/assets/7e21a868-f9e3-4967-bbaf-b2021f11ec40" />
 
-<img width="1024" height="768" alt="bottom10" src="https://github.com/user-attachments/assets/24fbd429-0741-414e-a28f-038043ec38fd" />
+
+
 
 
 
