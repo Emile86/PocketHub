@@ -90,38 +90,42 @@ PocketHub is a control hub for the dual-screen **AYANEO Pocket DS** . It brings 
 - **First-launch setup wizard:** sets everything up in a few steps, with the recommended answers already selected.
 - **Built-in help guide** with search.
 
-
-<img width="1024" height="768" alt="PocketHub_1795740094642_bottom" src="https://github.com/user-attachments/assets/8dc2cfce-315f-4464-9205-9a70333e6b8f" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740449936_bottom" src="https://github.com/user-attachments/assets/abb04dd0-c99f-4e14-88a2-6d4944792be8" />
+<img width="800" height="600" alt="PocketHub_1795740094642_bottom" src="https://github.com/user-attachments/assets/8dc2cfce-315f-4464-9205-9a70333e6b8f" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740105245_bottom" src="https://github.com/user-attachments/assets/7e4347b1-6908-4140-a152-36e46e67c0c7" />
+<img width="800" height="600" alt="PocketHub_1795740449936_bottom" src="https://github.com/user-attachments/assets/abb04dd0-c99f-4e14-88a2-6d4944792be8" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740124627_bottom" src="https://github.com/user-attachments/assets/ccb82ccf-0e83-45d5-85f5-d4dbe51f8879" />
+<img width="800" height="600" alt="PocketHub_1795740105245_bottom" src="https://github.com/user-attachments/assets/7e4347b1-6908-4140-a152-36e46e67c0c7" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740142897_bottom" src="https://github.com/user-attachments/assets/58836646-1dc7-4921-868d-7bcdbdf389fa" />
+<img width="800" height="600" alt="PocketHub_1795740124627_bottom" src="https://github.com/user-attachments/assets/ccb82ccf-0e83-45d5-85f5-d4dbe51f8879" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740186446_bottom" src="https://github.com/user-attachments/assets/01657313-add5-4dbb-a14a-1da8bd39c800" />
+<img width="800" height="600" alt="PocketHub_1795740142897_bottom" src="https://github.com/user-attachments/assets/58836646-1dc7-4921-868d-7bcdbdf389fa" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740194726_bottom" src="https://github.com/user-attachments/assets/3a6e941e-a752-4ccc-95f2-805eb4b35f6a" />
+<img width="800" height="600" alt="PocketHub_1795740186446_bottom" src="https://github.com/user-attachments/assets/01657313-add5-4dbb-a14a-1da8bd39c800" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740283605_bottom" src="https://github.com/user-attachments/assets/e85024bf-83ff-4b76-b3a6-97525944b9a3" />
+<img width="800" height="600" alt="PocketHub_1795740194726_bottom" src="https://github.com/user-attachments/assets/3a6e941e-a752-4ccc-95f2-805eb4b35f6a" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740289315_bottom" src="https://github.com/user-attachments/assets/d75a7b11-3f9f-4d58-99b8-81e86c4b90bf" />
+<img width="800" height="600" alt="PocketHub_1795740283605_bottom" src="https://github.com/user-attachments/assets/e85024bf-83ff-4b76-b3a6-97525944b9a3" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740393216_bottom" src="https://github.com/user-attachments/assets/f0b3a473-8629-4eb1-b299-688c1c440ba6" />
+<img width="800" height="600" alt="PocketHub_1795740289315_bottom" src="https://github.com/user-attachments/assets/d75a7b11-3f9f-4d58-99b8-81e86c4b90bf" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740420780_bottom" src="https://github.com/user-attachments/assets/1f32179f-4d54-47a6-8d19-3f33fd032d1f" />
+<img width="800" height="600" alt="PocketHub_1795740393216_bottom" src="https://github.com/user-attachments/assets/f0b3a473-8629-4eb1-b299-688c1c440ba6" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740431394_bottom" src="https://github.com/user-attachments/assets/6c6a381d-dd1a-48c4-a8fd-ee37f51ac2b6" />
+<img width="800" height="600" alt="PocketHub_1795740420780_bottom" src="https://github.com/user-attachments/assets/1f32179f-4d54-47a6-8d19-3f33fd032d1f" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740461902_bottom" src="https://github.com/user-attachments/assets/f94b1c54-225c-45f8-bf3d-08237c13aae7" />
+<img width="800" height="600" alt="PocketHub_1795740431394_bottom" src="https://github.com/user-attachments/assets/6c6a381d-dd1a-48c4-a8fd-ee37f51ac2b6" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740490064_bottom" src="https://github.com/user-attachments/assets/61c7e7cc-55b1-4151-8764-a16843f7ecf1" />
+<img width="800" height="600" alt="PocketHub_1795740461902_bottom" src="https://github.com/user-attachments/assets/f94b1c54-225c-45f8-bf3d-08237c13aae7" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740554485_bottom" src="https://github.com/user-attachments/assets/a0388282-8519-4d6c-98df-85f8cc0b293a" />
+<img width="800" height="600" alt="PocketHub_1795740490064_bottom" src="https://github.com/user-attachments/assets/61c7e7cc-55b1-4151-8764-a16843f7ecf1" />
 <br><br>
-<img width="1024" height="768" alt="PocketHub_1795740579053_bottom" src="https://github.com/user-attachments/assets/5e68d47a-aeeb-4bad-83ae-43530a365d37" />
+<img width="800" height="600" alt="PocketHub_1795740554485_bottom" src="https://github.com/user-attachments/assets/a0388282-8519-4d6c-98df-85f8cc0b293a" />
+<br><br>
+<img width="800" height="600" alt="PocketHub_1795740579053_bottom" src="https://github.com/user-attachments/assets/5e68d47a-aeeb-4bad-83ae-43530a365d37" />
+<br><br>
+<img width="800" height="600" alt="PocketHub_1795740585900_bottom" src="https://github.com/user-attachments/assets/ef48819f-6a80-40f3-aad6-b6c94edd4e14" />
+<br><br>
+<img width="800" height="600" alt="PocketHub_1795740617865_bottom" src="https://github.com/user-attachments/assets/fad484e1-025d-4e2c-bafb-a86bfde85211" />
 
 <img width="1024" height="768" alt="PocketHub_1795740585900_bottom" src="https://github.com/user-attachments/assets/ef48819f-6a80-40f3-aad6-b6c94edd4e14" />
 <br><br>
