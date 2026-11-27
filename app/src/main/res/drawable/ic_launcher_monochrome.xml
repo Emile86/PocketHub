@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed (monochrome) launcher icon for Android 13+: the device outline with both screens. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFFFF" android:fillType="evenOdd" android:pathData="M35.4,28.46H72.6A3.22,3.22 0 0 1 75.82,31.68V50.04A3.22,3.22 0 0 1 72.6,53.26H35.4A3.22,3.22 0 0 1 32.18,50.04V31.68A3.22,3.22 0 0 1 35.4,28.46ZM35.4,54.74H72.6A3.22,3.22 0 0 1 75.82,57.96V76.32A3.22,3.22 0 0 1 72.6,79.54H35.4A3.22,3.22 0 0 1 32.18,76.32V57.96A3.22,3.22 0 0 1 35.4,54.74ZM36.02,30.07H71.98A1.24,1.24 0 0 1 73.22,31.31V50.4A1.24,1.24 0 0 1 71.98,51.64H36.02A1.24,1.24 0 0 1 34.78,50.4V31.31A1.24,1.24 0 0 1 36.02,30.07ZM42.59,56.48H65.41A1.24,1.24 0 0 1 66.65,57.72V74.09A1.24,1.24 0 0 1 65.41,75.33H42.59A1.24,1.24 0 0 1 41.35,74.09V57.72A1.24,1.24 0 0 1 42.59,56.48Z" />
+    <path android:fillColor="#FFFFFFFF" android:strokeColor="#FFFFFFFF" android:strokeWidth="1.6" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillAlpha="0" android:pathData="M37.63,45.32 L43.09,45.32 L46.06,39.86 L49.54,47.8 L53.5,36.39 L56.98,43.83 L60.45,41.85 L63.92,43.34 L70.37,43.34" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M54.0,64.91Q57.47,63.42 55.49,59.46Q52.51,61.44 54.0,64.91ZM54.86,66.4Q54.41,70.15 58.84,70.42Q58.61,66.85 54.86,66.4ZM53.14,66.4Q50.12,64.14 47.67,67.84Q50.88,69.42 53.14,66.4ZM52.76,65.9A1.24,1.24 0 1 0 55.24,65.9A1.24,1.24 0 1 0 52.76,65.9Z" />
+</vector>

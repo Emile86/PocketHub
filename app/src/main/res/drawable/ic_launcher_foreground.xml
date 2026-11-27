@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PocketHub launcher icon: the AYANEO Pocket DS opened, drawn to its real proportions
+     (7" 16:9 lid screen with a live telemetry line, 5" 4:3 lower screen with the fan). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M36.89,29.94H73.59A3.72,3.72 0 0 1 77.31,33.66V77.81A3.72,3.72 0 0 1 73.59,81.53H36.89A3.72,3.72 0 0 1 33.17,77.81V33.66A3.72,3.72 0 0 1 36.89,29.94Z" android:fillColor="#000000" android:fillAlpha="0.35" android:strokeAlpha="0.35" />
+    <path android:pathData="M35.4,28.46H72.6A3.22,3.22 0 0 1 75.82,31.68V50.04A3.22,3.22 0 0 1 72.6,53.26H35.4A3.22,3.22 0 0 1 32.18,50.04V31.68A3.22,3.22 0 0 1 35.4,28.46Z" android:strokeColor="#556073" android:strokeWidth="0.9" android:strokeLineCap="round" android:strokeLineJoin="round">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="31.68" android:startY="27.96" android:endX="31.68" android:endY="80.04"><item android:offset="0.0" android:color="#3A4252"/><item android:offset="1.0" android:color="#1B2029"/></gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M39.86,52.76H68.14A0.74,0.74 0 0 1 68.88,53.5V54.5A0.74,0.74 0 0 1 68.14,55.24H39.86A0.74,0.74 0 0 1 39.12,54.5V53.5A0.74,0.74 0 0 1 39.86,52.76Z" android:fillColor="#0E1117" />
+    <path android:pathData="M35.4,54.74H72.6A3.22,3.22 0 0 1 75.82,57.96V76.32A3.22,3.22 0 0 1 72.6,79.54H35.4A3.22,3.22 0 0 1 32.18,76.32V57.96A3.22,3.22 0 0 1 35.4,54.74Z" android:strokeColor="#556073" android:strokeWidth="0.9" android:strokeLineCap="round" android:strokeLineJoin="round">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="31.68" android:startY="54.74" android:endX="31.68" android:endY="79.54"><item android:offset="0.0" android:color="#323947"/><item android:offset="1.0" android:color="#181C24"/></gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M36.02,30.07H71.98A1.24,1.24 0 0 1 73.22,31.31V50.4A1.24,1.24 0 0 1 71.98,51.64H36.02A1.24,1.24 0 0 1 34.78,50.4V31.31A1.24,1.24 0 0 1 36.02,30.07Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="34.66" android:startY="29.94" android:endX="73.34" android:endY="51.77"><item android:offset="0.0" android:color="#1FD8B0"/><item android:offset="0.5" android:color="#4C7DFF"/><item android:offset="1.0" android:color="#8A5CFF"/></gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M37.63,45.32 L43.09,45.32 L46.06,39.86 L49.54,47.8 L53.5,36.39 L56.98,43.83 L60.45,41.85 L63.92,43.34 L70.37,43.34" android:strokeColor="#FFFFFF" android:strokeWidth="1.7" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M52.26,36.39A1.24,1.24 0 1 0 54.74,36.39A1.24,1.24 0 1 0 52.26,36.39Z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M42.59,56.48H65.41A1.24,1.24 0 0 1 66.65,57.72V74.09A1.24,1.24 0 0 1 65.41,75.33H42.59A1.24,1.24 0 0 1 41.35,74.09V57.72A1.24,1.24 0 0 1 42.59,56.48Z" android:fillColor="#0A1018" android:strokeColor="#2B3647" android:strokeWidth="0.5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M54.0,64.91Q57.47,63.42 55.49,59.46Q52.51,61.44 54.0,64.91ZM54.86,66.4Q54.41,70.15 58.84,70.42Q58.61,66.85 54.86,66.4ZM53.14,66.4Q50.12,64.14 47.67,67.84Q50.88,69.42 53.14,66.4Z" android:fillColor="#39F0BD" />
+    <path android:pathData="M47.8,65.9A6.2,6.2 0 1 0 60.2,65.9A6.2,6.2 0 1 0 47.8,65.9Z" android:fillAlpha="0.55" android:strokeAlpha="0.55" android:strokeColor="#39F0BD" android:strokeWidth="0.6" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M52.76,65.9A1.24,1.24 0 1 0 55.24,65.9A1.24,1.24 0 1 0 52.76,65.9Z" android:fillColor="#E9FFF8" />
+    <path android:pathData="M34.16,60.2A2.48,2.48 0 1 0 39.12,60.2A2.48,2.48 0 1 0 34.16,60.2Z" android:fillColor="#12161D" android:strokeColor="#8A95A8" android:strokeWidth="0.7" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M34.66,68.14H38.62A0.5,0.5 0 0 1 39.12,68.64V69.62A0.5,0.5 0 0 1 38.62,70.12H34.66A0.5,0.5 0 0 1 34.16,69.62V68.64A0.5,0.5 0 0 1 34.66,68.14ZM36.15,66.65H37.13A0.5,0.5 0 0 1 37.63,67.15V71.11A0.5,0.5 0 0 1 37.13,71.61H36.15A0.5,0.5 0 0 1 35.65,71.11V67.15A0.5,0.5 0 0 1 36.15,66.65Z" android:fillColor="#8A95A8" />
+    <path android:pathData="M70.32,57.72A1.04,1.04 0 1 0 72.4,57.72A1.04,1.04 0 1 0 70.32,57.72ZM68.09,59.95A1.04,1.04 0 1 0 70.17,59.95A1.04,1.04 0 1 0 68.09,59.95ZM72.55,59.95A1.04,1.04 0 1 0 74.63,59.95A1.04,1.04 0 1 0 72.55,59.95Z" android:fillColor="#8A95A8" />
+    <path android:pathData="M70.32,62.18A1.04,1.04 0 1 0 72.4,62.18A1.04,1.04 0 1 0 70.32,62.18Z" android:fillColor="#39F0BD" />
+    <path android:pathData="M68.88,69.13A2.48,2.48 0 1 0 73.84,69.13A2.48,2.48 0 1 0 68.88,69.13Z" android:fillColor="#12161D" android:strokeColor="#8A95A8" android:strokeWidth="0.7" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>
